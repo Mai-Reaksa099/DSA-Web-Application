@@ -1,0 +1,15 @@
+h2{
+    margin: 20px;
+    color: chartreuse;
+    font-size: 25px;
+    font-weight: 200;
+}
+#form{
+    background-color: beige;
+    font-size: 30px;
+}
+button{
+    border: 3px dotted black;
+    margin-left: 30px;
+    padding-top: 30px;
+}
